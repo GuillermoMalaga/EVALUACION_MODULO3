@@ -1,0 +1,16 @@
+.square{
+    float:left;
+    width: 30%;
+    height: 10;
+    padding-bottom: 30%;
+    color: black;
+    margin: auto;
+}
+.container{
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: #232323;
+}
