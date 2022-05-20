@@ -1,3 +1,6 @@
+.colorDisplay{
+    font-size: 0.5em;
+}
 .square{
     float:left;
     width: 30%;
@@ -17,3 +20,19 @@ body{
 h1{
     color: white;
 }
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+    box-shadow: 0 4px 0 #067706;
+    border-radius: 4px;
+}
+.button:hover {
+    background-color:#12ce70;
+    }
